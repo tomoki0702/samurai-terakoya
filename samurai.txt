@@ -2,3 +2,4 @@
     if ('browsingTopics' in document && document.featurePolicy.allowsFeature('browsing-topics')) {
     fetch("https://pagead2.googlesyndication.com/pagead/buyside_topics/set/", {browsingTopics:true, keepalive:true});
     }
+変更したよ
